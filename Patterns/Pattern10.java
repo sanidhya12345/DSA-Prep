@@ -50,6 +50,21 @@ public class Pattern10 {
             stars-=2;
             System.out.println();
         }
+        spaces=spaces-1;
+        stars=1;
+        for(int i=0;i<=n/2-1;i++){
+            //loop for spaces
+            for(int j=spaces;j>0;j--){
+                System.out.print(" ");
+            }
+            spaces--;
+            //loop for stars
+            for(int k=1;k<stars+1;k++){
+                System.out.print("*");
+            }
+            stars+=2;
+            System.out.println();
+        }
         sc.close();
     }
 }
