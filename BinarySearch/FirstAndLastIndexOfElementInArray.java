@@ -1,6 +1,6 @@
 package BinarySearch;
 
-public class SearchInRotatedSortedArray {
+public class FirstAndLastIndexOfElementInArray {
     public int[] searchRange(int[] nums, int target) {
         int[] res = new int[2];
         res[0] = searchLeftBound(nums, target);
