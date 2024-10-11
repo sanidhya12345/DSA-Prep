@@ -1,7 +1,7 @@
 package Hashing;
 
 import java.util.*;
-public class UberOAProblem {
+public class UberSDE2Interview {
     public static void main(String[] args) {
        int[][] g = new int[200005][28];
        List<String> lst=new ArrayList<>();
