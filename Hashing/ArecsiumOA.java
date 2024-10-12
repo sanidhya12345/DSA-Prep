@@ -7,6 +7,7 @@ public class ArecsiumOA {
         HashMap<Character,Integer> odd1=new HashMap<>();  //character freq at odd indices in x string
         HashMap<Character,Integer> even2=new HashMap<>(); //character freq at even indices in y string
         HashMap<Character,Integer> odd2=new HashMap<>();  //character freq at odd indices in y string
+        
         for(int i=0;i<x.length();i++){
             if(i%2==0){
                even1.put(x.charAt(i), even1.getOrDefault(x.charAt(i), 0)+1);
