@@ -27,7 +27,6 @@ public class Leetcode3317 {
                 dp[i][j] = (dp[i - 1][j] * j + dp[i - 1][j - 1] * (x - (j - 1))) % MOD;
             }
         }
-    
         long total = 0;
         for (int i = 1; i <= x; i++) {
             total = (total + dp[n][i] * modPow(y, i, MOD)) % MOD; // Modular exponentiation
