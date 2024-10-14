@@ -1,5 +1,8 @@
 package Hashing;
 import java.util.*;
+
+//Atlassian Interview Question (Basic)
+//find the number of ways to divide the array into two equal parts.
 public class CountNumberOfPartitions {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
