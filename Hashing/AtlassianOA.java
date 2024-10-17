@@ -10,6 +10,7 @@ public class AtlassianOA  {
             arr[i]=sc.nextInt();
         }
         int [] s=new int[n];
+
         for(int i=0;i<n;i++){
             s[i]=arr[i]-i;
         }
