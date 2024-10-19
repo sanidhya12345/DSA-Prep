@@ -50,7 +50,7 @@ public class SwiggyOA {
         boolean flag=false;
         removeSameChar(tarr, sarr, n);//remove the same characters initially
         if((tarr[0]=='0' && sarr[0]=='1') || (tarr[n-1]=='1' && sarr[n-1]=='0')){
-            System.out.println("Not Possible"); // because we don't find the valid 0 and valid 1 either in left or right side
+            System.out.println("Not Possible");
         }
         else{
             for(int i=0;i<n;i++){
