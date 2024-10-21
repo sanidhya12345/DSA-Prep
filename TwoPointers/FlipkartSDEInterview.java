@@ -3,7 +3,7 @@ package TwoPointers;
 import java.util.*;
 public class FlipkartSDEInterview {
     public static void main(String[] args) {
-        int [] arr={1,3 ,8 ,4 ,8, 2 ,10, 11, 15, 18, 111};
+        int [] arr={3,2,4,5,2, 6,7,8,9,10};
         int n=arr.length;
         int ans=-1;
         HashMap<Integer,Integer> visited=new HashMap<>();
