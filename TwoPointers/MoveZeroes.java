@@ -10,9 +10,6 @@ public class MoveZeroes {
             if(nums[i]==0 && nums[j]==0){
                 j++;
             }
-            else if(nums[i]!=0 && nums[j]!=0){
-                i++;
-            }
             else{
                 int temp=nums[i];
                 nums[i]=nums[j];
