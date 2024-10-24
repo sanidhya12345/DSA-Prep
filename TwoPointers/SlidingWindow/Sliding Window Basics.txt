@@ -1,0 +1,39 @@
+Sliding window technique:
+
+It is used to solve the problems which involves working with subarrays or substrings of a particular size or with a specific condition.
+
+There are two types of sliding window techniques:
+1.Fixed Size Sliding Window.
+
+In problems where the size of the window is fixed, you move the window from the beginning of the array or string 
+to the end, processing each new window and removing the effect of the previous window. This way, you maintain a 
+"window" of elements of the required size.
+
+Example problem: Find the maximum sum of a subarray of size k.
+
+2.Variable Size Sliding Window.
+
+In problems where the window size isn't fixed, but the window must satisfy some condition (like the sum of elements
+or the difference between elements), you expand or contract the window dynamically.
+
+Example problem: Find the smallest subarray with a sum greater than or equal to a given value.
+
+
+//Fixed Size Sliding Window Basic Template:
+
+int i=0,j=0;
+
+while(j<n){
+
+    //calc 
+    
+    if(j-i+1<k){  //size of current window is less than k 
+       j++;
+    }
+    else if(j-i+1==k){
+      //ans <-- calc
+       
+       unaffect the previous window value so silde the window.
+       j++;
+    }
+}
