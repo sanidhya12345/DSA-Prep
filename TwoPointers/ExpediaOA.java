@@ -3,6 +3,12 @@ package TwoPointers;
 // Author: Sanidhya Varshney
 // Date: 2024-10-24
 
+/*
+
+Given two arrays “a” and “b” ; find the unique pairs such that element in a is bigger than element in b 
+Unique pair meaning :- (i,j) once selected this particular set of index cannot be used again. Index should not be repeated.
+
+ */
 import java.util.*;;
 public class ExpediaOA {
     public static void main(String[] args) {
