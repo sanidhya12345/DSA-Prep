@@ -1,5 +1,7 @@
 package CSES;
 
+// Author: Sanidhya Varshney
+// Date: 2024-10-24 18:23
 import java.util.Scanner;
 
 public class TwoKnights {
