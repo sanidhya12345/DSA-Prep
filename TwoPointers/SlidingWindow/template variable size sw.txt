@@ -7,3 +7,13 @@ iii)If curr_condn > k then will remove elements from the left of window until cu
 
 Patterns Problems of variable size sliding window.
 
+a) On the basis of what we have to find, I have divided the problems into 3 types :- 
+Count subarr / substr.     🡨 imp.
+Longest subarr. / substr.
+Shortest subarr. / substr.
+
+b) On the basis of given Condn K, I have again divided the problems into 3 types:- 
+Atmost K
+Exactly K
+Atleast K
+9 patterns , 6 patterns
