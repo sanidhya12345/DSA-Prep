@@ -1,0 +1,7 @@
+Find minimum characters to be appended to search word so that result word should be transformable to the search word 
+means resultword should be the subsequence of the search word.
+
+example:
+
+inp searchword="abcz" resultword="azdb"
+output:2
