@@ -1,0 +1,5 @@
+Given an array of N non negative integers we have also given K find the
+cumulative maximum sum of those K consecutive distinct elements.
+
+Input arr=[1,2,7,7,4,3,6] k=3
+Ouput: 14
