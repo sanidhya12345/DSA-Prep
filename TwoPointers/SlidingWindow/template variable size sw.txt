@@ -1,0 +1,9 @@
+Template of variable size sliding window 
+
+In variable size  s.w  :- take care of 3 cases :-  
+i) if curr_condn < k  :---- j++ 
+ii) if curr_condn == k then generally, find :-    ans 🡨 calc.  & then again j++.
+iii)If curr_condn > k then will remove elements from the left of window until curr_condn again starts satisfying the given condn or < given condn. 
+
+Patterns Problems of variable size sliding window.
+
