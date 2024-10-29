@@ -1,0 +1,6 @@
+You are given a sorted array -> each element in the array occurs for exactly “K” times ; except 1 element -> that 1 element occurs for < K times; please find that element 
+K = 3 
+[2 2 2 3 3 4 4 4 5 5 5] 
+
+O/P ->
+3(occurs only 2 < K times;)
