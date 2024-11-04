@@ -1,4 +1,4 @@
-package OASessions.Nov_3_2024.AmazonOA;
+package OASessions.Amazon;
 
 /**
  * GitHub: sanidhya12345
