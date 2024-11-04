@@ -1,4 +1,4 @@
-
+package TwoPointers.SlidingWindow;
 class Solution {
     public static String smallestSubstring(String str, int k) {
         // Edge case: if k = 1, just find the character with the smallest ASCII value

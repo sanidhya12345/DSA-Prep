@@ -1,0 +1,27 @@
+You are given a string of even length .You can remove any 2 chars from the string
+There are certain cost of removing those chars:
+1.if you remove 2 same chars then the cost will be x.
+2.if you remove 2 diff chars then the cost will be y.
+
+Solution:
+there are certain cases which we have to solve to solve the actual problem
+
+1.if x==y then you can remove any chars and cost will not affected either removing the same or diff chars
+    ans=n/2*x;
+2. else if x<y which means the cost of removing the same chars are less than the cost of removing the diff chars for that 
+we will just count the odd freq chars from the hashmap
+then answer will be:
+  let suppose the count of odd freq chars will be c1;  
+  remaining chars=total lenght of the string - c1;
+  ans=c1/2*x+(remaining chars/2)*y
+ 
+3.for x>y which measn the cost of removing the same chars will be more than the cost of removing the diff chars.
+
+   create a priority queue for this and put all the frequencies of the chars in the pq/]
+   Basically we have to create a maximum heap of the frequencies
+   select two large freq values and decrease the couunt of them if count>0 then again put them into the hashmap.
+   and cost of doing this operation is y after this there are certain elements with even frequency may or may not be left so their removal cost wil be x.
+   
+   let suppoose that the count of all operations is c0;
+   then answer will be:
+   ans=c0*y+(remainder left/2)*x
