@@ -31,7 +31,7 @@ public class Solution {
         int n=sc.nextInt();
         boolean [] prime=isPrime(n-1);
         //closest prime number which is less than n
-        int closestPrime=-1;
+        int closestPrime=2;
         for(int i=n-1;i>=2;i--){
             if(prime[i]){
                 closestPrime=i;
