@@ -7,7 +7,6 @@ package DynamicProgramming;
  */
 
 import java.io.*;
-import java.util.StringTokenizer;
 public class GoldManSachs {
     static final StdIn in = new StdIn();
     static final PrintWriter out = new PrintWriter(System.out);
@@ -39,46 +38,5 @@ public class GoldManSachs {
         dp[i][1] = 100000000 ; 
         out.println(min(dp[n][2], dp[n-1][2], dp[n-1][1]));
         out.flush();
-    }
-}
-class StdIn {
-    BufferedReader br;
-    StringTokenizer st;
-
-    public StdIn() {
-        br = new BufferedReader(new InputStreamReader(System.in));
-    }
-
-    String next() {
-        while (st == null || !st.hasMoreElements()) {
-            try {
-                st = new StringTokenizer(br.readLine());
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-        return st.nextToken();
-    }
-
-    int nextInt() {
-        return Integer.parseInt(next());
-    }
-
-    long nextLong() {
-        return Long.parseLong(next());
-    }
-
-    double nextDouble() {
-        return Double.parseDouble(next());
-    }
-
-    String nextLine() {
-        String str = "";
-        try {
-            str = br.readLine();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return str;
     }
 }
