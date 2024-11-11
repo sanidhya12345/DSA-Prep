@@ -6,7 +6,6 @@ public class SuperReduced {
 
 	 public static String superReducedString(String s) {
 		 StringBuilder result = new StringBuilder();
-
 		    for (char c : s.toCharArray()) {
 		        int length = result.length();
 		        if (length > 0 && result.charAt(length - 1) == c) {
