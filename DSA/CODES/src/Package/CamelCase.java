@@ -20,6 +20,7 @@ public class CamelCase {
 		Scanner sc=new Scanner(System.in);
 		String s=sc.next();
 		System.out.println(camelcase(s));
+		sc.close();
 	}
 
 }

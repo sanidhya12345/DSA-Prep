@@ -1,6 +1,5 @@
 package Package;
 
-import java.util.Arrays;
 
 public class SuperReduced {
 
