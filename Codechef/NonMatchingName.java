@@ -7,8 +7,8 @@ public class NonMatchingName {
         Scanner sc=new Scanner(System.in);
         int test=sc.nextInt();
         while (test--!=0) {
-            int a=sc.nextInt();
-            int b=sc.nextInt();
+            //int a=sc.nextInt();
+            //int b=sc.nextInt();
             String sa=sc.next();
             String sb=sc.next();
             boolean flag=false;
@@ -32,5 +32,6 @@ public class NonMatchingName {
                 System.out.println("Yes");
             }
         }
+        sc.close();
     }
 }
