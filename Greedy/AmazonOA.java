@@ -9,7 +9,7 @@ package Greedy;
 import java.io.*;
 import java.util.*;
 public class AmazonOA {
-    static final StdIn in = new StdIn();
+    static final Scanner in = new Scanner(System.in);
     static final PrintWriter out = new PrintWriter(System.out);
     static int first(int [] arr, int n,int target){
         int ans=-1;
@@ -83,8 +83,8 @@ public class AmazonOA {
                 }
             }
         }
-        System.out.println(finalmoves);
-        System.out.println(Arrays.toString(numberLine));
+        out.println(finalmoves);
+        out.flush();
     }
 }
 
