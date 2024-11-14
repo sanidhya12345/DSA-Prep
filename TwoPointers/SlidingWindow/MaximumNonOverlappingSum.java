@@ -1,5 +1,4 @@
-package SlidingWindow;
-
+package TwoPointers.SlidingWindow;
 import java.util.Scanner;
 
 public class MaximumNonOverlappingSum {
