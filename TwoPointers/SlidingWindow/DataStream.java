@@ -27,8 +27,7 @@ public class DataStream {
         }
         else if(j-i+1==k){
             
-            if(count==k) ans =true;
-            else ans=false;
+            ans = count==k;
             
             if(list.get(i)==value) count--;
             i++;
