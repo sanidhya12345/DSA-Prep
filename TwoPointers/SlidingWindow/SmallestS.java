@@ -1,5 +1,5 @@
 package TwoPointers.SlidingWindow;
-class Solution {
+public class SmallestS {
     public static String smallestSubstring(String str, int k) {
         // Edge case: if k = 1, just find the character with the smallest ASCII value
         if (k == 1) {
