@@ -7,6 +7,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanidhya12345/DSA-Prep/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,8 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanidhya12345/DSA-Prep/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 <!---LeetCode Topics End-->
