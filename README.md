@@ -8,6 +8,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/sanidhya12345/DSA-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1470-shuffle-the-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1929-concatenation-of-array/) | Easy |
@@ -21,6 +22,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -32,6 +34,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +75,8 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
