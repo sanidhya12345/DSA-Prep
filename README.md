@@ -6,6 +6,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/sanidhya12345/DSA-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1470-shuffle-the-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1929-concatenation-of-array/) | Easy |
