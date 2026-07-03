@@ -6,6 +6,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sanidhya12345/DSA-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -32,6 +33,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
