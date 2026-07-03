@@ -57,4 +57,12 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1929-concatenation-of-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/sanidhya12345/DSA-Prep/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/sanidhya12345/DSA-Prep/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
