@@ -89,4 +89,8 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/sanidhya12345/DSA-Prep/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 <!---LeetCode Topics End-->
