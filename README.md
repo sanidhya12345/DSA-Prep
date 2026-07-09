@@ -18,6 +18,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1929-concatenation-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanidhya12345/DSA-Prep/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +61,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +112,8 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
