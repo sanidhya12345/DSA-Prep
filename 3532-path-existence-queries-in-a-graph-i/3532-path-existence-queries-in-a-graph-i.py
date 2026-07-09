@@ -2,54 +2,24 @@ from typing import List
 
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
-
-        def bs_helper(nums, key, n):
-            low = 0
-            high = n - 1
-            ans = -1
-            while low <= high:
-                mid = (low + high) // 2
-                if nums[mid] <= key:
-                    ans = mid
-                    low = mid + 1
-                else:
-                    high = mid - 1
-            return ans
-
-        # Setup DSU (Disjoint Set Union) arrays
-        parent = list(range(n))
+        # Array to store the component ID for each node
+        components = [0] * n
         
-        # Finds the root group of a node
-        def find(i):
-            if parent[i] == i:
-                return i
-            parent[i] = find(parent[i])
-            return parent[i]
+        # ID for the current connected component
+        curr_component = 0
+        
+        # Traverse the sorted array and assign component IDs
+        for i in range(1, n):
+            # If the difference exceeds maxDiff, the bridge is broken!
+            # We start a new component.
+            if nums[i] - nums[i-1] > maxDiff:
+                curr_component += 1
             
-        # Merges two nodes into the same group
-        def union(i, j):
-            root_i = find(i)
-            root_j = find(j)
-            if root_i != root_j:
-                parent[root_i] = root_j
-
-        for i in range(0, len(nums)):
-            u = i
-            v = bs_helper(nums, nums[i] + maxDiff, n)
+            components[i] = curr_component
             
-            # Connect the start node to the furthest reachable node
-            union(u, v)
+        # Answer queries: a path exists if both nodes are in the same component
+        ans = []
+        for u, v in queries:
+            ans.append(components[u] == components[v])
             
-            #we must also link the immediate next node to ensure the 
-            # whole chain between u and v stays connected in the same group.
-            if i + 1 <= v:
-                union(i, i + 1)
-        result = [False] * len(queries)
-        for k, (u, v) in enumerate(queries):
-            # If they share the same parent, a path of ANY length exists!
-            if find(u) == find(v):
-                result[k] = True
-            else:
-                result[k] = False
-                
-        return result
+        return ans
