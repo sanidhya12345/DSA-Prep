@@ -19,10 +19,12 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanidhya12345/DSA-Prep/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1288-remove-covered-intervals](https://github.com/sanidhya12345/DSA-Prep/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +56,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +91,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +100,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/sanidhya12345/DSA-Prep/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +122,9 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
