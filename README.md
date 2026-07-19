@@ -28,6 +28,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
@@ -43,6 +44,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanidhya12345/DSA-Prep/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -130,10 +132,12 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/sanidhya12345/DSA-Prep/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/sanidhya12345/DSA-Prep/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
