@@ -8,6 +8,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sanidhya12345/DSA-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanidhya12345/DSA-Prep/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanidhya12345/DSA-Prep/tree/main/0739-daily-temperatures/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/1260-shift-2d-grid/) | Easy |
@@ -39,6 +40,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanidhya12345/DSA-Prep/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sanidhya12345/DSA-Prep/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -135,6 +137,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanidhya12345/DSA-Prep/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanidhya12345/DSA-Prep/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanidhya12345/DSA-Prep/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
