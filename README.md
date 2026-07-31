@@ -38,6 +38,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanidhya12345/DSA-Prep/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/sanidhya12345/DSA-Prep/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -61,6 +63,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanidhya12345/DSA-Prep/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -74,6 +77,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [1331-rank-transform-of-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sanidhya12345/DSA-Prep/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanidhya12345/DSA-Prep/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -136,6 +140,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanidhya12345/DSA-Prep/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanidhya12345/DSA-Prep/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
