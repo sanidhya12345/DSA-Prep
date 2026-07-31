@@ -8,7 +8,6 @@ class Solution:
            for freq in sorted_frequencies:
                 ans+=(freq*pushes)
                 count+=1
-                print(freq)
                 if count==8:
                     count=0
                     pushes+=1
