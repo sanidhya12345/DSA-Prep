@@ -8,6 +8,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sanidhya12345/DSA-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanidhya12345/DSA-Prep/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanidhya12345/DSA-Prep/tree/main/0739-daily-temperatures/) | Medium |
@@ -129,6 +130,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sanidhya12345/DSA-Prep/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,12 +149,14 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sanidhya12345/DSA-Prep/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanidhya12345/DSA-Prep/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanidhya12345/DSA-Prep/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -221,4 +225,8 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
