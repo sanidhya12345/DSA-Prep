@@ -13,6 +13,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [0645-set-mismatch](https://github.com/sanidhya12345/DSA-Prep/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/sanidhya12345/DSA-Prep/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/sanidhya12345/DSA-Prep/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sanidhya12345/DSA-Prep/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sanidhya12345/DSA-Prep/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sanidhya12345/DSA-Prep/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -159,6 +160,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sanidhya12345/DSA-Prep/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sanidhya12345/DSA-Prep/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanidhya12345/DSA-Prep/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanidhya12345/DSA-Prep/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -169,6 +171,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanidhya12345/DSA-Prep/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sanidhya12345/DSA-Prep/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanidhya12345/DSA-Prep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sanidhya12345/DSA-Prep/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanidhya12345/DSA-Prep/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -198,6 +201,7 @@ In this repo you will find the beginner to advanced dsa solutions in java
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanidhya12345/DSA-Prep/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Graph Theory
@@ -246,8 +250,17 @@ In this repo you will find the beginner to advanced dsa solutions in java
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sanidhya12345/DSA-Prep/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sanidhya12345/DSA-Prep/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/sanidhya12345/DSA-Prep/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
